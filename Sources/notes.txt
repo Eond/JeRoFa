@@ -1,0 +1,77 @@
+données
+-------
+
+entree = TkEntry.new
+var = TkVariable.new('Valeur défaut')
+entree.textvariable(var)
+
+...
+ 
+valeurFinale = var
+valeurEnTexte = var.Value
+
+===
+voir interface.rb
+===
+
+Tâches
+------
+
+Interface (base)    / 20mh
+	-Interface.rb
+	-Manuel.rb
+	main (distinction joueur/MJ)
+	(requis base des données)
+	manuel (droits joueur/MJ)
+Données             / 30mh
+	-Classes.rb
+	base
+	clé d'auteur
+	fichiers
+	chargement/enregistrement
+	identification auteur/gabarit
+	protection auteur
+Fiche de personnage / 45mh
+	-fichePerso.rb
+	creation (interface)
+	(requis base des données)
+	création (enregistrement et données)
+	visualisation (import)
+	sauvegarde (export)
+Connection          / 25mh
+	-Connexion.rb
+	client
+	serveur
+Communication       / 35mh
+	-Connexion.rb
+	(requis connection et interface)
+	Transfert données au joueur première fois
+	(requis fiche de personnage)
+	reception fiche (avec validation)
+	envoie/reception actions
+Campagne            / 75mh
+	-Classes.rb
+	-Campagne.rb
+	(requis données et fiche de personnage et interface)
+	Créer nouvelle campagne
+		Gérer contenu
+		(requis cartes)
+		modifier cartes
+		(requis tables)
+		modifier tables
+		lier des tables de rencontre avec cartes
+	Créer selon gabarit
+	visualiser campagne
+	Exporter Campagne
+	Importer Campagne
+Cartes              / 15mh
+	-Cartes.rb
+	(requis interface)
+	créer des cartes
+	lier des cartes
+Tables              / 30mh
+	-tables.rb
+	(requis interface et donnés)
+	Créer des tables de rencontre
+	créer des tables d'événements
+	créer des tables de butin

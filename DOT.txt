@@ -1,0 +1,77 @@
+DOT (DnD Online Tabletop)
+=========================
+
+Description
+-----------
+
+DOT est un logiciel qui recrée une scéance de DnD entre plusieurs personnes par internet ou réseau local. Le logiciel offre des outils pour aggrémenter les joueurs et le GM et les aider à rendre les scéances plus fluides et rapides.
+
+Note : L'anglais et le français s'emmêlent pour ce projet, car la source du projet est majoritairement anglaise et les développeurs du logiciel sont des francophones du Québec. Bien que les documents soient principalement en français, le logiciel sera totalement en anglais avec possibilité d'ajouter des fichiers de langues.
+
+Glossaire
+---------
+
+DnD : Dungeons and Dragons (en français, Donjons et Dragons), nom de la série de jeux de table inventée par la compagnie Wizards of the Coast.
+GM : Game Master (en français, Maître de Jeu), fait référence à la personne qui explique aux joueurs leur environement et les évènements autour d'eux selon leurs actions, celles des NPCs et les résultats aléatoires des dés. Il est aussi celui qui monte la campagne et à le droit de véto sur l'interprétation des règles et de leur application.
+NPC : Non-Player Character (en français, Personnage Non-Joueur), c'est un personnage qui est contrôlé par le GM lors des scéances. Toute entité de la campagne qui agit et qui n'est pas contrôlé par l'un joueurs est un NPC.
+Joueur : C'est celui qui découvre la campagne. Il contrôle un personnage que le GM a approuvé et interagit avec les différents éléments de la campagne.
+Campagne : Elle est montée, pensée et dirigée par le GM. Tout évènement se produit selon le bon vouloir du GM.
+Scéance : C'est où les joueurs et le GM interagissent ensemble dans le monde de la campagne. Elle dure un certain temps, pas toujours le même, et se termine quand le GM l'arrête.
+Chapitre : Souvent optionnel, c'est une portion de la campagne. Le GM peut les instaurer afin de se donner des points de repères pour suivre la progression des joueurs.
+
+Niveaux
+-------
+
+GM : Maître de la campagne.
+Joueur : Participant dans la campagne.
+Utilisateur : Personne usant du logiciel.
+
+Tâches
+------
+
+L'utilisateur doit pouvoir visualiser le livre de règles.
+Le Joueur doit pouvoir visualiser le livre de règles d'une campagne à laquelle il a participé.
+Le GM doit pouvoir modifier une campagne.
+Le GM doit pouvoir créer une campagne.
+Le GM doit pouvoir supprimer une campagne.
+Le GM doit pouvoir visualiser une campagne.
+Le GM doit pouvoir modifier une race.
+Le GM doit pouvoir créer une race.
+Le GM doit pouvoir supprimer une race.
+L'utilisateur doit pouvoir visualiser une race.
+Le GM doit pouvoir modifier un personnage.
+Le GM doit pouvoir créer un personnage.
+Le GM doit pouvoir supprimer un personnage.
+L'utilisateur pouvoir visualiser un personnage.
+Le GM doit pouvoir modifier un don.
+Le GM doit pouvoir créer un don.
+Le GM doit pouvoir supprimer un don.
+L'utilisateur doit pouvoir visualiser un don.
+Le GM doit pouvoir modifier un objet.
+Le GM doit pouvoir créer un objet.
+Le GM doit pouvoir supprimer un objet.
+L'utilisateur doit pouvoir visualiser un objet.
+Le GM doit pouvoir modifier une classe.
+Le GM doit pouvoir créer une classe.
+Le GM doit pouvoir supprimer une classe.
+L'utilisateur doit pouvoir visualiser une classe.
+Le GM doit pouvoir modifier une compétence.
+Le GM doit pouvoir créer une compétence.
+Le GM doit pouvoir supprimer une compétence.
+L'utilisateur doit pouvoir visualiser une compétence.
+Le GM doit pouvoir modifier un sort.
+Le GM doit pouvoir créer un sort.
+Le GM doit pouvoir supprimer un sort.
+L'utilisateur doit pouvoir visualiser un sort.
+Le GM doit pouvoir modifier une école de sort.
+Le GM doit pouvoir créer une école de sort.
+Le GM doit pouvoir supprimer une école de sort.
+L'utilisateur doit pouvoir visualiser une école de sort.
+Le GM doit pouvoir modifier un domaine de sort.
+Le GM doit pouvoir créer un domaine de sort.
+Le GM doit pouvoir supprimer un domaine de sort.
+L'utilisateur doit pouvoir visualiser un domaine de sort.
+Le GM doit pouvoir modifier une catégorie de sort.
+Le GM doit pouvoir créer une catégorie de sort.
+Le GM doit pouvoir supprimer une catégorie de sort.
+L'utilisateur doit pouvoir visualiser une catégorie de sort.
